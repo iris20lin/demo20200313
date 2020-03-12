@@ -6,7 +6,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("請輸入扣血量");
             int hp = 100;
 
             while (true)
