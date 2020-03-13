@@ -8,7 +8,7 @@ namespace Demo
         {
             Console.WriteLine("請輸入扣血量");
             int hp = 100;
-
+            Console.WriteLine(hp);
             while (true)
             {
                 //判斷死亡
